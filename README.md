@@ -1,8 +1,4 @@
-***\*******\***# Bucketbee**\********\***
-
-
-
-
+**Bucketbee**
 
 
 
@@ -26,11 +22,7 @@ Here is the Youtube link if you want to have a look at the demonstration of the 
 
 
 
-***\*******\***## Getting started**\********\***
-
-
-
-
+ **Getting started**
 
 
 
@@ -38,41 +30,19 @@ In addition to the usual suspects: git, Node, npm, you'll need these following t
 
 
 
-
-
 Follow the instructions supplied below.
-
-
-
-
 
 
 
 \* Xcode.  Install from App Store.
 
-
-
-
-
 \* [Expo XDE](https://www.expo.io) - the Expo development environment.
 
+  ```npm install -g exp```
 
 
 
-
-  \```npm install -g exp```
-
-
-
-
-
-
-
-***\*******\********\**\*******\*****\*You need this!\*****\********\**********\*****\******\***
-
-
-
-
+**You need this!**
 
 
 
@@ -80,15 +50,7 @@ Follow the instructions supplied below.
 
 
 
-
-
-
-
-***\*******\***## Installation**\********\***
-
-
-
-
+**Installation**
 
 
 
@@ -96,11 +58,7 @@ Follow the instructions supplied below.
 
 
 
-
-
    `git clone https://github.com/andrasvaradi/Bucketbee_Client`
-
-
 
 
 
@@ -108,23 +66,11 @@ Follow the instructions supplied below.
 
 
 
-
-
-
-
 \2. Install dependencies.
 
 
 
-
-
-
-
-   `npm install or npm i`  
-
-
-
-
+   `npm install or npm i`
 
 
 
@@ -132,19 +78,11 @@ Follow the instructions supplied below.
 
 
 
-
-
-
-
 \4. Run the app `npm start`
 
 
 
-
-
-
-
-***\*******\***## Tech Stack**\********\***
+ **Tech Stack**
 
 
 
@@ -154,43 +92,21 @@ Tech Stack:
 
 
 
-
-
 \- React Native (with Expo)
 
-
-
-
-
 \- MongoDB + Mongoose database
-
-
-
-
 
 \- GraphQL + Apollo Client/Server
 
 
 
-
-
-
-
-***\*******\***## Developers**\********\***
-
-
+ **Developers**
 
 
 
 Project creator/owner:
 
-
-
-
-
-\- Pamela Chen - [GitHub](https://github.com/pamelakaylin) - [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
-
-
+- Pamela Chen - [GitHub](https://github.com/pamelakaylin) - [LinkedIn](https://www.linkedin.com/in/pamela-chen-60377216b/)
 
 
 
@@ -198,12 +114,8 @@ Contributors:
 
 
 
-
-
-\- Haydn Martin - [GitHub](https://github.com/hmar13) - [LinkedIn](https://www.linkedin.com/in/haydnmartin/)
-
+- Haydn Martin - [GitHub](https://github.com/hmar13) - [LinkedIn](https://www.linkedin.com/in/haydnmartin/)
 
 
 
-
-\- Andras Varadi - [GitHub](https://github.com/andrasvaradi) - [LinkedIn](www.linkedin.com/in/andrasvaradi)https://www.linkedin.com/in/andrasvaradi/)
+- Andras Varadi - [GitHub](https://github.com/andrasvaradi) - [LinkedIn](www.linkedin.com/in/andrasvaradi)https://www.linkedin.com/in/andrasvaradi/)
